@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hoa
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning building data pipelines
-- 💞️ I’m looking to collaborate on a data engineering field
+- 👀 I’m interested in coding, data analytics and machine learning
+- 🌱 I’m currently building modern data data platform including data lake, data warehouse, data pipelines and data products
+- 💞️ I’m looking to collaborate on the data engineering field
 - 📫 You can reach me by my email
 
 <!---
